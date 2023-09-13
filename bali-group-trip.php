@@ -112,7 +112,7 @@
 		  <div class="col-md-6 srinagar_page banner_second">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735; font-size:24px; padding: 15px 0">THE ‘SLOW TRAVEL COLLECTIVE’</h2>
          <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >
@@ -145,7 +145,7 @@
  
     <div class="container-fluid row">
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
               <div class="" style="  padding: 5px 20px">
             <h2 style="color: #cc4735; font-size:25px;">
@@ -172,7 +172,7 @@
 		  <div class="col-md-6 bali_page banner_bucket">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735; font-size:24px; padding: 15px 0">The Bucket List</h2>
             <ul style="color: rgb(144, 141, 141); padding-top: 20px">
@@ -202,7 +202,7 @@
 	  <div class="container-fluid row">
 		 
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 1 – WELCOME TO UBUD!
@@ -234,7 +234,7 @@
 		 <div class="container-fluid row">
        <div class="col-md-6 banner_adventure position-relative"> </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 2 – ADRENALIN & ADVENTURE! 
@@ -272,7 +272,7 @@
 		<div class="container-fluid row">
 		  
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
              DAY 3 – CULTURAL IMMERSION
@@ -319,7 +319,7 @@
     <div class="container-fluid row">
        <div class="col-md-6 banner_madness position-relative"> </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
              DAY 4 – WATERFALL MADNESS!
@@ -363,7 +363,7 @@
   	<div class="container-fluid row">
 		 
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div style="padding:10% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
             DAY 5 – FARM FOOD FIESTA!
@@ -406,7 +406,7 @@
 
 		  <div class="col-md-6">
 
-		   <div style="padding:20% 14%">
+		   <div style="padding:15% 14%">
           <div class="day_one">
               <h2 style="color:#cc4735;font-size:24px;">
                  DAY 6 – SELAMAT JALAN (GOODBYE)
