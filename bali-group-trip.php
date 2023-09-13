@@ -112,7 +112,7 @@
 		  <div class="col-md-6 srinagar_page banner_second">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:10% 14%">
+		   <div style="padding:5% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735; font-size:24px; padding: 15px 0">THE ‘SLOW TRAVEL COLLECTIVE’</h2>
          <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >

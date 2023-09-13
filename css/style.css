@@ -1076,7 +1076,7 @@ section.privacy_content ul {
 .bali_page .banner_second {
   background: url(../images/bali/Picture3.jpg);
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 20%;
   /* position: relative; */
   display: flex;
   flex-direction: column;
@@ -1227,7 +1227,7 @@ section.privacy_content ul {
 .bali_page .banner_jalan {
   background: url(../images/bali/Picture11.jpg);
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 15%;
   display: flex;
   flex-direction: column;
   align-items: center;
