@@ -461,7 +461,7 @@
 
 
 
-     <div class="container-fluid" style="">
+     <div class="" style="">
              
 		    <div class="alchemists" style="padding:5% 14%">
              <h2 style="font-size:24px;" class="text-center text-white">
