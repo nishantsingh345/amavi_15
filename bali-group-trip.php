@@ -511,9 +511,9 @@
 
         <div class="medium_footer"  style="padding: 4px 0;">
           <div class="container"><br>
-            <h3 class="header">SLOW TRAVEL Collective- Bali Edition</h3>
+            <h3 class="header">Slow Travel Collective- Bali Edition</h3>
             <p style="margin:5px;">23rd – 28th November 2023 | 25th – 30th January 2024</p>
-            <!-- <span>Handcrafted travel experience</span> -->
+            <span>Handcrafted travel experience</span>
             <p>An Amaavi Wanderlust Collective Program</p>
           </div>
         </div>
