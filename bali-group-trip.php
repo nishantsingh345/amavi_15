@@ -51,7 +51,7 @@
     font-size: 18px;
     content-visibility: auto;}
 	.check_res{height:auto}
-	@media only screen and (min-width: 1200px) and (max-width:3000px) {
+	@media only screen and (max-width: 1200px){
 	.check_res{height:170px}	
 	}
 	</style>
@@ -508,16 +508,11 @@
     
       <!-- section 6 footer -->
       <div class="banner_eight position-relative">
-        <!-- <div class="top_footer">
-          <div class="container">
-            <h1 class="header">amaavi</h1>
-            <span>Handcrafted travel experience</span>
-          </div>
-        </div> -->
-        <div class="medium_footer">
+
+        <div class="medium_footer"  style="padding: 4px 0;">
           <div class="container"><br>
             <h3 class="header">SLOW TRAVEL Collective- Bali Edition</h3>
-            <p>23rd – 28th November 2023 | 25th – 30th January 2024</p>
+            <p style="margin:5px;">23rd – 28th November 2023 | 25th – 30th January 2024</p>
             <!-- <span>Handcrafted travel experience</span> -->
             <p>An Amaavi Wanderlust Collective Program</p>
           </div>
@@ -525,18 +520,11 @@
 
         <div class="d-flex justify-content-center">
 	      	<a href="Amaavi_Slow Travel Collective_Bali Edition.pdf" target="_blank">
-          <button type="button" class="btn" style="background-color: #cc4735">
+          <button type="button" class="btn" style="background-color: #cc4735; margin-bottom:15px;">
             <h6 style="color: #ffffff; font-weight: 500">Download Brochure </h6>
           </button>
 		  </a>
         </div>
-        <!-- <div class="top_footer">
-          <div class="container d-flex justify-content-between">
-            <a href="#"><i class="fa fa-file-pdf-o fa-4x"></i></a>
-            <h1 class="header">Download Broucher</h1>
-            <span>Handcrafted travel experience</span>
-          </div>
-        </div> --><br><br>
       </div>
 
    <?php include "footer.php";?>
