@@ -98,13 +98,13 @@
     <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
       <div class="carousel-inner">
         <div class="carousel-item active">
-         <a href="about.php"> <img id="carousel1" src="images/banner/banner1.png" class="d-block w-100" alt="slider" /></a>
+         <a href="about.php"> <img id="carousel1" src="images/banner/banner1.jpg" class="d-block w-100 " style="height:600px;" alt="slider" /></a>
         </div>
         <div class="carousel-item">
           <a href="kashmir-group-trip.php"><img id="carousel1" src="images/banner/banner2.png" class="d-block w-100" alt="slider" /></a>
         </div>
         <div class="carousel-item">
-          <a href="bali-group-trip.php"><img id="carousel1" src="images/banner/banner3.png" class="d-block w-100" alt="slider" /></a>
+          <a href="bali-group-trip.php"><img id="carousel1" src="images/banner/Bali image for banner.jpg" class="d-block w-100" style="height:600px;" alt="slider" /></a>
         </div>
       </div>
       <button
@@ -166,7 +166,7 @@
                    <img src="images/icons/pod_4.png" class="card-img-top" style="width: 25%;margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">Domestic Travel</h5>
-                             <p class="card-text text-justify">A company born and established in India, we help you explore hidden gems from this magical land of many cultures, stories and experiences.<br><br></p>
+                             <p class="card-text text-center">A company born and established in India, we help you explore hidden gems from this magical land of many cultures, stories and experiences.<br><br></p>
                         </div>
               </div>
         </div>
@@ -176,7 +176,7 @@
                    <img src="images/icons/pod_3.png" class="card-img-top" style="width: 25%;; margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">International Travel</h5>
-                             <p class="card-text text-justify">The world is truly your playground! With highly rated on-ground service and support teams, Amaavi helps you travel the globe, one or many destinations at a time!</p>
+                             <p class="card-text text-center">The world is truly your playground! With highly rated on-ground service and support teams, Amaavi helps you travel the globe, one or many destinations at a time!</p>
                         </div>
               </div>
         </div>
@@ -186,7 +186,7 @@
                    <img src="images/icons/pod_2.png" class="card-img-top" style="width: 25%; margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">Personal Travel Consulting </h5>
-                             <p class="card-text text-justify">What are you looking for? Adventure, relaxation or inspiration? We can help you curate the perfect itinerary to make that travel dream a reality. </p>
+                             <p class="card-text text-center">What are you looking for? Adventure, relaxation or inspiration? We can help you curate the perfect itinerary to make that travel dream a reality. </p>
                         </div>
               </div>
         </div>
@@ -198,7 +198,7 @@
                    <img src="images/icons/pod_6.png" class="card-img-top" style="width: 20%; margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">Group Travel Consulting </h5>
-                             <p class="card-text text-justify" >Looking for a getaway with family, friends or work colleagues? We tailor-make travel itineraries to suit your budgets and exceed your expectations!</p>
+                             <p class="card-text text-center" >Looking for a getaway with family, friends or work colleagues? We tailor-make travel itineraries to suit your budgets and exceed your expectations!</p>
                         </div>
               </div>
         </div>
@@ -209,7 +209,7 @@
                    <img src="images/icons/pod_5.png" class="card-img-top" style="width: 20%; margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">Visa Management Services</h5>
-                             <p class="card-text text-justify">We help you navigate the Visa process from application to fee payment, appointments to background checks so you can travel smoothly.</p>
+                             <p class="card-text text-center">We help you navigate the Visa process from application to fee payment, appointments to background checks so you can travel smoothly.</p>
                         </div>
               </div>
         </div>
@@ -220,7 +220,7 @@
                    <img src="images/icons/pod_1.png" class="card-img-top" style="width: 25%; margin: auto" alt="...">
                         <div class="card-body">
                              <h5 class="card-title"  style="text-align: center;">Destination Management Services</h5>
-                             <p class="card-text text-justify" >It’s great to have a travel partner whose experience and expertise can help you make the most of your trip- while you leave the logistics to us!</p>
+                             <p class="card-text text-center" >It’s great to have a travel partner whose experience and expertise can help you make the most of your trip- while you leave the logistics to us!</p>
                         </div>
               </div>
         </div>
@@ -355,7 +355,7 @@
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 			<a href="bali-group-trip.php" style="text-decoration:none;color:#000">
                <div class="pod">
-                  <img src="images/01.jpg" style="width:100%">
+                  <img src="images/Upcoming trip Bali image.jpg" style="width:100%">
                   <h3> Slow Travel in Bali </h3>
                </div>
 			   </a>
