@@ -469,6 +469,12 @@ p.user_content {
   margin-top: 30px;
 }
 
+.user img {
+  border: 3px solid #cc4537;
+  border-radius: 50%;
+  padding: 1px;
+}
+
 .user h4 {
   margin-top: 20px;
   color: #cc4537;
