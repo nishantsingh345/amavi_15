@@ -60,9 +60,9 @@ Ibn Battuta
 	    <section class="section.right_to_get p">
       <div class="container">
         <h2 style="font-size: 34px; color: #cc4432;" class="text-center">The Amaavi Promise</h2>
-        <h2 style="font-size: 16px; color: #333; margin-top:1%; margin-bottom:5%;" class="text-center">Curating the best travel experiences</h2>
-        <div class="row" style="padding-bottom:2%">
-        <div class="col-md-12">
+        <h2 style="font-size: 16px; color: #333; margin-top:1%; margin-bottom:2%;" class="text-center">Curating the best travel experiences</h2>
+        <div class="row" style="padding-bottom:5px;">
+        <div class="col-md-12 text-center">
               <p>From the moment you sign up with us, we are your personal travel buddies aka, your Adventure Alchemists! While our team sits in the office drawing up the perfect itinerary for you, our operations staff navigate the maze of logistics in faraway lands. Beyond distances and borders and time zones, our mission is to make every outing enriching and unforgettable! 
 </p>
         </div>
