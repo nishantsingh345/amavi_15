@@ -117,7 +117,7 @@
             <h2 style="color:#cc4735; font-size:24px; padding: 15px 0">THE ‘SLOW TRAVEL COLLECTIVE’</h2>
          <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >
          
-            <p>
+            <p  style="margin:0;">
              In a world constantly moving at a frenetic pace, we believe there is immense
              value in slowing down, taking a step back and immersing oneself in the moment. 
             </p>
@@ -218,7 +218,7 @@
             </ul>
           </div>
            <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p  style="margin:0;">
               The town of Ubud is a flourishing center for
               traditional crafts and dance. It is surrounded by
               rainforests, rice paddies, temples and shrines 
@@ -254,12 +254,10 @@
             </ul>
           </div>
           <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
-            <p>
-              <p>
+           <p  style="margin:0;">
              The Campuhan Ridge Walk is an easy hiking route
-            known for its lush, scenic locales and sweeping
-             hilltop views. A must-visit when in Ubud! 
-            </p>
+              known for its lush, scenic locales and sweeping
+              hilltop views. A must-visit when in Ubud! 
             </p>
           </div>
           <!-- content section end here -->
@@ -293,7 +291,7 @@
             </ul>
           </div>
            <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
              The Tirta Empul is a Hindu Balinese Water Temple,
               famous for its holy spring water. The petirtaan or
                  bathing structure offers fresh water for a holy dip.
@@ -301,7 +299,7 @@
           </div>
 
           <div   style="max-width: 500px; margin: 5px 0; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
               A form of Balinese Hindu dance and music drama,
               the Kecak Dance recreates the mythological story
                 of Ram and Sita from the Ramayana. 
@@ -345,12 +343,10 @@
             </ul>
           </div>
           <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
-            <p>
-              <p>
+            <p style="margin:0;">
                The Campuhan Ridge Walk is an easy hiking route
                known for its lush, scenic locales and sweeping
                hilltop views. A must-visit when in Ubud! 
-            </p>
             </p>
           </div>
           <!-- content section end here -->
@@ -384,7 +380,7 @@
             </ul>
           </div>
            <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
              Learn about the organic ingredients used in
              cooking traditional Balinese dishes. Our chef helps
              you pick fresh produce and use the ingredients to
