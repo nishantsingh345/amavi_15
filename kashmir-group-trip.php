@@ -59,10 +59,10 @@
         >
           <div class="summits">
             <h1>Summits Collective- Kashmir Edition</h1>
-            <p style="font-size: 20px">26th- 31st October 2023 | 2nd-7th November 2023</p>
+            <p  style="font-size: 20px">26th- 31st October 2023 | 2nd-7th November 2023</p>
           </div>
           <div class="summits_down">
-            <p style="font-size: 20px; align-items: center; padding: 4px 10px">
+            <p  style="font-size: 20px; align-items: center; padding: 4px 10px">
               An Amaavi Wanderlust Collective Program
             </p>
           </div>
@@ -80,15 +80,15 @@
           <div class="d-flex justify-content-center">
             <div style="color: white summitsbottom_inner" class="summitsbottom_inner">
               <img src="images/icons/icon_one.png" alt="" />
-              <p style="color: white">Rated 4.8/5 on Google</p>
+              <p style="margin:0;" style="color: white">Rated 4.8/5 on Google</p>
             </div>
             <div class="summitsbottom_inner">
               <img src="images/icons/icon_two.png" alt="" />
-              <p style="color: white">49+ countries covered</p>
+              <p style="margin:0;" style="color: white">49+ countries covered</p>
             </div>
             <div style="color: white summitsbottom_inner" class="summitsbottom_inner">
               <img src="images/icons/icon_three.png" alt="" />
-              <p style="color: white">1000+ happy travellers</p>
+              <p style="margin:0;" style="color: white">1000+ happy travellers</p>
             </div>
           </div>
         </div>
@@ -119,7 +119,7 @@
             </ul>
           </div>
           <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
               Dal Lake is the most popular attractions in Srinagar surrounded by a splendid view on
               all sides. The floating vegetable and flower market in the lake is a must-see!
             </p>
@@ -150,21 +150,21 @@
             </ul>
           </div>
            <div class="" style="max-width: 500px;background-color: #cc4735; color: white; padding: 15px 20px;margin-bottom: 6px;">
-            <p>
+            <p style="margin:0;">
               Shankaracharya Temple is amongst the top religious attractions in Srinagar, named
               after the great philosopher Shankarcharya. The temple offers a panoramic view of
               Srinagar City, accessible by a staircase of 243 steps.
             </p>
           </div>
           <div class="" style=" max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px; margin-bottom: 6px;" >
-            <p>
+            <p style="margin:0;">
               One of India’s most beautiful Mughal Gardens, here is a perfect representation of
               Persian-influenced Mughal architecture in its prime amidst the spectacular mountainous
               setting.
             </p>
           </div>
           <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
-            <p>
+            <p style="margin:0;">
               Literally translating to ‘palace of fairies’, Pari Mahal sits pretty above the
               Zabarwan mountain range, overlooking the Dal Lake and offering a stunning view of all
               of Srinagar.
@@ -206,7 +206,7 @@
             </ul>
           </div>
            <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
               The Ashtaar glacier gives birth to 2 rivers- Shaliganga and Doodhganga. The waters of
               these rivers hit rocky paths along the way, appearing ‘milky’ and thus inspiring the
               name Doodhpathri, the Valley of Milk!
@@ -240,12 +240,10 @@
             </ul>
           </div>
           <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
-            <p>
-              <p>
+           <p style="margin:0;">
               Towering at a height of 3,800m (12414 feet), Sinthan Top is one of the most popular
               tourist attractions in the region. Covered in snow throughout the year, this location
               offers gorgeous 360° views of the Jammu and Kashmir regions.
-            </p>
             </p>
           </div>
           <!-- content section end here -->
@@ -289,7 +287,7 @@
             </ul>
           </div>
            <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
-            <p>
+            <p style="margin:0;">
               Pahalgam also known as ‘Village of Shepherds’ in Kashmiri is a popular tourist
               destination and hill station. Situated at an altitude of 7200 ft (2200m), its lush
               green meadows and pristine waters attract thousands of tourists from across the world
@@ -307,27 +305,27 @@
           <div class="row rows_grid ms-auto">
             <div class="col-md-2">
               <h5>Hotel category</h5>
-              <p>3* Hotels</p>
+              <p style="margin:0;">3* Hotels</p>
             </div>
 
             <div class="col-md-2">
               <h5>Srinagar Hotels</h5>
-              <p>Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
+              <p style="margin:0;">Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
             </div>
 
             <div class="col-md-2">
               <h5>Pahalgam Hotels</h5>
-              <p>Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
+              <p style="margin:0;">Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
             </div>
 
             <div class="col-md-2">
               <h5>Meal plan</h5>
-              <p>Breakfast & Dinner</p>
+              <p style="margin:0;">Breakfast & Dinner</p>
             </div>
 
             <div class="col-md-2">
               <h5>Cost per person</h5>
-              <p>INR 29,757 (inclusive of 5% GST)</p>
+              <p style="margin:0;">INR 29,757 (inclusive of 5% GST)</p>
             </div>
           </div>
 
@@ -375,23 +373,23 @@
             <div class="day_one">
               <div class="col">
                 <h1>Hotel category</h1>
-                <p>3* Hotels</p>
+                <p style="margin:0;">3* Hotels</p>
               </div>
               <div class="col">
                 <h1>Srinagar Hotels</h1>
-                <p>Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
+                <p style="margin:0;">Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
               </div>
               <div class="col">
                 <h1>Pahalgam Hotels</h1>
-                <p>Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
+                <p style="margin:0;">Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
               </div>
               <div class="col">
                 <h1>Meal plan</h1>
-                <p>Breakfast & Dinner</p>
+                <p style="margin:0;">Breakfast & Dinner</p>
               </div>
               <div class="col">
                 <h1>Cost per person</h1>
-                <p>INR 29,757 (inclusive of 5% GST)</p>
+                <p style="margin:0;">INR 29,757 (inclusive of 5% GST)</p>
               </div>
             </div>
           </div>
@@ -446,23 +444,23 @@
           <div class="day_one">
             <div class="col">
               <h1>Hotel category</h1>
-              <p>3* Hotels</p>
+              <p style="margin:0;">3* Hotels</p>
             </div>
             <div class="col">
               <h1>Srinagar Hotels</h1>
-              <p>Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
+              <p style="margin:0;">Hotel Asian Park/ Hotel PalmSpring/ Royal comfort</p>
             </div>
             <div class="col">
               <h1>Pahalgam Hotels</h1>
-              <p>Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
+              <p style="margin:0;">Hotel Pahalgam Retreat/ Hotel Fifth Season/ Hotel Regency</p>
             </div>
             <div class="col">
               <h1>Meal plan</h1>
-              <p>Breakfast & Dinner</p>
+              <p style="margin:0;">Breakfast & Dinner</p>
             </div>
             <div class="col">
               <h1>Cost per person</h1>
-              <p>INR 29,757 (inclusive of 5% GST)</p>
+              <p style="margin:0;">INR 29,757 (inclusive of 5% GST)</p>
             </div>
           </div> -->
       <!-- section started here -->
@@ -505,15 +503,15 @@
       <!-- </div>
         <div class="position-absolute bottom-0 start-50 translate-middle-x">
           <div class="d-flex page_foot" style="color: black">
-            <p>
+            <p style="margin:0;">
               <i class="fa fa-life-ring"></i>
               <a style="color: black" href="/">www.amaavi.com</a>
             </p>
-            <p>
+            <p style="margin:0;">
               <i class="fa fa-envelope"></i>
               <a style="color: black" href="/">www.amaavi.com</a>
             </p>
-            <p>
+            <p style="margin:0;">
               <i class="fa fa-phone"></i>
               <a style="color: black" href="/">+91 799799 8136</a>
             </p>
@@ -532,9 +530,9 @@
         <div class="medium_footer">
           <div class="container">
             <h3 class="header">Summits Collective- Kashmir Edition</h3>
-            <p>Trip dates- 26th- 31st October 2023 and 2nd-7th November 2023</p>
+            <p style="margin:0;">Trip dates- 26th- 31st October 2023 and 2nd-7th November 2023</p>
             <span>Handcrafted travel experience</span>
-            <p>An Amaavi Wanderlust Collective Program</p>
+            <p style="margin:0;">An Amaavi Wanderlust Collective Program</p>
           </div>
         </div>
 
