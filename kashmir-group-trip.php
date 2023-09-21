@@ -118,7 +118,7 @@
               <li>Come back to the hotel for an overnight stay in Srinagar</li>
             </ul>
           </div>
-          <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >
+          <div class="text-white" style="background-color: #cc4735; padding: 10px 20px" >
             <p style="margin:0;">
               Dal Lake is the most popular attractions in Srinagar surrounded by a splendid view on
               all sides. The floating vegetable and flower market in the lake is a must-see!
@@ -149,21 +149,21 @@
               </li>
             </ul>
           </div>
-           <div class="" style="max-width: 500px;background-color: #cc4735; color: white; padding: 15px 20px;margin-bottom: 6px;">
+           <div class="" style="max-width: 500px;background-color: #cc4735; color: white; padding: 10px 20px;margin-bottom: 6px;">
             <p style="margin:0;">
               Shankaracharya Temple is amongst the top religious attractions in Srinagar, named
               after the great philosopher Shankarcharya. The temple offers a panoramic view of
               Srinagar City, accessible by a staircase of 243 steps.
             </p>
           </div>
-          <div class="" style=" max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px; margin-bottom: 6px;" >
+          <div class="" style=" max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px; margin-bottom: 6px;" >
             <p style="margin:0;">
               One of India’s most beautiful Mughal Gardens, here is a perfect representation of
               Persian-influenced Mughal architecture in its prime amidst the spectacular mountainous
               setting.
             </p>
           </div>
-          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
+          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px">
             <p style="margin:0;">
               Literally translating to ‘palace of fairies’, Pari Mahal sits pretty above the
               Zabarwan mountain range, overlooking the Dal Lake and offering a stunning view of all
@@ -205,7 +205,7 @@
               <li>Back to the hotel for an overnight stayin Srinagar</li>
             </ul>
           </div>
-           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
+           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p style="margin:0;">
               The Ashtaar glacier gives birth to 2 rivers- Shaliganga and Doodhganga. The waters of
               these rivers hit rocky paths along the way, appearing ‘milky’ and thus inspiring the
@@ -239,7 +239,7 @@
               </li>
             </ul>
           </div>
-          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
+          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px">
            <p style="margin:0;">
               Towering at a height of 3,800m (12414 feet), Sinthan Top is one of the most popular
               tourist attractions in the region. Covered in snow throughout the year, this location
@@ -286,7 +286,7 @@
               <li style="padding: 4px 0">Overnight stay in Pahalgam</li>
             </ul>
           </div>
-           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
+           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p style="margin:0;">
               Pahalgam also known as ‘Village of Shepherds’ in Kashmiri is a popular tourist
               destination and hill station. Situated at an altitude of 7200 ft (2200m), its lush

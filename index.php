@@ -98,7 +98,7 @@
     <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
       <div class="carousel-inner">
         <div class="carousel-item active">
-         <a href="about.php"> <img id="carousel1" src="images/banner/banner1.jpg" class="d-block w-100 img-responsive" alt="slider" /></a>
+         <a href="about.php"> <img id="carousel1" src="images/banner/banner-1st.jpg" class="d-block w-100 img-responsive" alt="slider" /></a>
         </div>
         <div class="carousel-item">
           <a href="kashmir-group-trip.php"><img id="carousel1" src="images/banner/banners2.png" class="d-block w-100 img-responsive" alt="slider"/></a>

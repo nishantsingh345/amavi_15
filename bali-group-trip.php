@@ -47,7 +47,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/media.css" />
 	<style>
-	.price-bali li{background-color: #fff; padding: 15px 20px;color:#000;margin-bottom: 3%;
+	.price-bali li{background-color: #fff; padding: 10px 20px;color:#000;margin-bottom: 3%;
     font-size: 18px;
     content-visibility: auto;}
 	.check_res{height:auto}
@@ -115,7 +115,7 @@
 		   <div style="padding:5% 14%">
           <div class="day_one">
             <h2 style="color:#cc4735; font-size:24px; padding: 15px 0">THE ‘SLOW TRAVEL COLLECTIVE’</h2>
-         <div class="text-white" style="background-color: #cc4735; padding: 15px 20px" >
+         <div class="text-white" style="background-color: #cc4735; padding: 10px 20px" >
          
             <p  style="margin:0;">
              In a world constantly moving at a frenetic pace, we believe there is immense
@@ -217,7 +217,7 @@
               </li>
             </ul>
           </div>
-           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
+           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p  style="margin:0;">
               The town of Ubud is a flourishing center for
               traditional crafts and dance. It is surrounded by
@@ -253,7 +253,7 @@
               </li>
             </ul>
           </div>
-          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
+          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px">
            <p  style="margin:0;">
              The Campuhan Ridge Walk is an easy hiking route
               known for its lush, scenic locales and sweeping
@@ -290,7 +290,7 @@
               </li>
             </ul>
           </div>
-           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
+           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p style="margin:0;">
              The Tirta Empul is a Hindu Balinese Water Temple,
               famous for its holy spring water. The petirtaan or
@@ -298,7 +298,7 @@
             </p>
           </div>
 
-          <div   style="max-width: 500px; margin: 5px 0; background-color: #cc4735; color: white; padding: 15px 20px" >
+          <div   style="max-width: 500px; margin: 5px 0; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p style="margin:0;">
               A form of Balinese Hindu dance and music drama,
               the Kecak Dance recreates the mythological story
@@ -322,12 +322,12 @@
             <h2 style="color:#cc4735;font-size:24px;">
              DAY 4 – WATERFALL MADNESS!
             </h2>
-            <p style="padding-top: 6px color: rgb(144, 141, 141);">
+            <p style="padding-top: 6px; color: rgb(144, 141, 141);">
               Dive into the realm of the Waterfall
                Wanderlust as we traverse through lush
                landscapes to discover hidden gems like the
             </p>
-            <ul style="color: rgb(144, 141, 141); padding-top: 20px">
+            <ul style="color: rgb(144, 141, 141);">
               <li style="padding: 4px 0">
                   Tibumana Waterfall 
               </li>
@@ -342,7 +342,7 @@
               </li>
             </ul>
           </div>
-          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px">
+          <div class="" style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px">
             <p style="margin:0;">
                The Campuhan Ridge Walk is an easy hiking route
                known for its lush, scenic locales and sweeping
@@ -379,7 +379,7 @@
               </li>
             </ul>
           </div>
-           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 15px 20px" >
+           <div   style="max-width: 500px; background-color: #cc4735; color: white; padding: 10px 20px" >
             <p style="margin:0;">
              Learn about the organic ingredients used in
              cooking traditional Balinese dishes. Our chef helps
@@ -429,7 +429,7 @@
 		  <div class="col-md-9 content-center">
 		   <div style="padding:8%">
           <div class="">
-            <h2 style="font-size:24px;background-color: #cc4735; padding: 15px 20px" class="text-white">
+            <h2 style="font-size:24px;background-color: #cc4735; padding: 10px 20px" class="text-white">
             Package Price- INR 91,500/person | Inclusions as below
             </h2><br>
             <ul style="color: rgb(144, 141, 141); padding:0px" class="price-bali">
