@@ -119,6 +119,12 @@ nav.navbar.navbar-inverse {
   margin: 0 auto;
 }
 
+/* slider image  */
+
+#carousel1 {
+  height: 600px;
+}
+
 section.home_icon h2 {
   color: #cc4735;
   margin-top: 40px;

@@ -98,13 +98,13 @@
     <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
       <div class="carousel-inner">
         <div class="carousel-item active">
-         <a href="about.php"> <img id="carousel1" src="images/banner/banner1.jpg" class="d-block w-100 " style="height:600px;" alt="slider" /></a>
+         <a href="about.php"> <img id="carousel1" src="images/banner/banner1.jpg" class="d-block w-100 img-responsive" alt="slider" /></a>
         </div>
         <div class="carousel-item">
-          <a href="kashmir-group-trip.php"><img id="carousel1" src="images/banner/banner2.png" class="d-block w-100" alt="slider" /></a>
+          <a href="kashmir-group-trip.php"><img id="carousel1" src="images/banner/banners2.png" class="d-block w-100 img-responsive" alt="slider"/></a>
         </div>
         <div class="carousel-item">
-          <a href="bali-group-trip.php"><img id="carousel1" src="images/banner/Bali image for banner.jpg" class="d-block w-100" style="height:600px;" alt="slider" /></a>
+          <a href="bali-group-trip.php"><img id="carousel1" src="images/banner/banners3.png" class="d-block w-100 img-responsive"  alt="slider" /></a>
         </div>
       </div>
       <button

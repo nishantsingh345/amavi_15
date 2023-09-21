@@ -913,4 +913,8 @@
     border-bottom: 2px solid rgb(255 183 174);
     border-radius: 1px;
   }
+
+  #carousel1 {
+    height: auto;
+  }
 }
