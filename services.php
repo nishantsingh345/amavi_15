@@ -50,8 +50,7 @@
       <div class="container">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h1>
-          ”Travelling- it leaves you speechless, then turns you into a storyteller”<br>
-Ibn Battuta
+          ”Travelling- it leaves you speechless, then turns you into a storyteller”<br>Ibn Battuta
           </h1>
         </div>
       </div>
@@ -59,7 +58,7 @@ Ibn Battuta
 	
 	    <section class="section.right_to_get p">
       <div class="container">
-        <h2 style="font-size: 34px; color: #cc4432;" class="text-center">The Amaavi Promise</h2>
+        <h2 style="font-size: 30px; color: #cc4432; margin-top:2%" class="text-center">The Amaavi Promise</h2>
         <h2 style="font-size: 16px; color: #333; margin-top:1%; margin-bottom:2%;" class="text-center">Curating the best travel experiences</h2>
         <div class="row" style="padding-bottom:5px;">
         <div class="col-md-12 text-center">
