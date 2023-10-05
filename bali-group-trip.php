@@ -227,8 +227,7 @@
           <!-- content section end here -->
         </div>
 		  </div>
-       <div class="col-md-6 banner_ubud position-relative">
-		  </div>
+       <div class="col-md-6 banner_ubud position-relative"></div>
 		</div>
 		
 		 <div class="container-fluid row">
@@ -402,7 +401,7 @@
 
 		  <div class="col-md-6">
 
-		   <div style="padding:15% 14%">
+		   <div class="space">
           <div class="day_one">
               <h2 style="color:#cc4735;font-size:24px;">
                  DAY 6 – SELAMAT JALAN (GOODBYE)
