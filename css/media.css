@@ -650,9 +650,9 @@
     display: none;
   }
 
-  img.img-responsive.res_768 {
+  /* img.img-responsive.res_768 {
     display: block;
-  }
+  } */
 
   .home_page .banner {
     padding: 100px 0px;

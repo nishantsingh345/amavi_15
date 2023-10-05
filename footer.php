@@ -45,7 +45,7 @@
       </div>
     </section>
 
-<div style="position: relative;position: fixed;z-index: 1000;bottom: 50px;left: 30px;">
+<div style="position: relative;position: fixed;z-index: 1000;bottom: 70px;left: 20px;">
   <div  style="position:fixed;">
       <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_MWyuDOiKPamM9c" async> </script> </form>
   </div>
