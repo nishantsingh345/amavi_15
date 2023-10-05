@@ -1316,3 +1316,11 @@ section.privacy_content ul {
   justify-content: center;
   align-items: center;
 }
+
+.srinagar_page .space {
+  padding: 20% 14%;
+}
+
+.bali_page .space {
+  padding: 10% 14%;
+}

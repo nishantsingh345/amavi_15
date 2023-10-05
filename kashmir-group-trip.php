@@ -69,11 +69,11 @@
         </div>
 		
 		<div class="position-absolute bottom-0 start-0 summits_bottom broucher text-center" style="width: 100%; margin:0% 0% 6% 0%;padding-left: 0%;background: none;">
-		<a href="Amaavi_Summits%20Collective_Kashmir%20Edition.pdf" target="_blank">
+		   <a href="Amaavi_Summits%20Collective_Kashmir%20Edition.pdf" target="_blank">
           <button type="button" class="btn" style="background-color: #cc4735">
             <h6 class="text-white">Download Brochure </h6>
           </button>
-		  </a>
+		   </a>
 		</div>
 
         <div class="position-absolute bottom-0 start-0 summits_bottom" style="width: 100%">
@@ -103,7 +103,7 @@
 		  <div class="col-md-6 srinagar_page banner_second">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div class="space">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 1 - TOUCHDOWN AT SRINAGAR!
@@ -132,7 +132,7 @@
  
       <div class="container-fluid row">
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div class="space">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 2- THE SERENITY OF SRINAGAR
@@ -184,7 +184,7 @@
 		  <div class="col-md-6 banner_four position-relative">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div class="space">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 3- VISIT DOODHPATHRI
@@ -221,7 +221,7 @@
 		
 		 <div class="container-fluid row">
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div class="space">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
                DAY 4- HEIGHTS OF SINTHAN TOP
@@ -259,7 +259,7 @@
 		  <div class="col-md-6 banner_six position-relative">
 		  </div>
 		  <div class="col-md-6">
-		   <div style="padding:20% 14%">
+		   <div class="space">
           <div class="day_one">
             <h2 style="color:#cc4735;font-size:24px;">
               DAY 5- GET WOWED AT PAHALGAM!

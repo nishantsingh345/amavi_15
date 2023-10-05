@@ -124,6 +124,7 @@
   .hide_brand {
     display: none;
   }
+
   img.img-responsive.res_768 {
     width: 120px;
   }
@@ -682,6 +683,14 @@
   }
   .home_parallex {
     padding: 100px 0px;
+  }
+
+  .srinagar_page .space {
+    padding: 4% 2%;
+  }
+
+  .bali_page .space {
+    padding: 4% 2%;
   }
 
   .home_parallex h2 {
