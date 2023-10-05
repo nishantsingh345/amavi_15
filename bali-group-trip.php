@@ -459,7 +459,7 @@
 
      <div class="" style="">
              
-		    <div class="alchemists" style="padding:5% 14%">
+		    <div class="alchemists">
              <h2 style="font-size:24px;" class="text-center text-white">
                 Meet your Adventure Alchemists!
               </h2>
@@ -468,7 +468,7 @@
                <div>
                 <img class="alchemists-img" src="./images/bali/Aparna Rao Pic 2.jpg" alt="">
               </div>
-          <div   style=" background-color: #cc4735;  border-radius: 10%; color: white; padding: 2% 3%" >
+            <div   style=" background-color: #cc4735;  border-radius: 10%; color: white; padding: 2% 3%" >
                  <p style="text-align:center; font-weight:600; font-size:24px; padding:2px 0;">APARNA RAO</p>
                  <p class="check_res">
                     A Yoga Alliance Certified Instructor, PADI Certified

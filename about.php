@@ -87,8 +87,7 @@
       <div class="container">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <h1>
-            Can we just skip to the good part-<br>
-where I travel the world?
+            Can we just skip to the good part-<br>where I travel the world?
           </h1>
         </div>
       </div>
@@ -129,25 +128,25 @@ where I travel the world?
 			
 			
 			<div class="row">
-			<div class="col-md-6">
+			<div class="col-lg-6">
 			 <div class="row">
                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                   <div class="user">
-                     <img src="images/team/1.png" class="img-responsive" style="width:100%">
+                     <img src="images/team/1.png" class="img-responsive" style="width-80%">
                      <h4> Vani Sudam  <br><span style="font-size: 12px; color: #8d8d8d;">Founding Partner, Amaavi</span>  </h4>
                   </div>
                </div>
-               <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+               <div class="col-lg-8 col-md-8 col-sm- col-xs-12">
                   <p class="user_content">Struck early by the wanderlust bug, she has travelled to over 20 countries and 50 cities around the world. With a keen eye for unique experiences and hospitality, Ms Vani is one of the loudest cheerleaders for Team Amaavi. 
                   </p>
                </div>
             </div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-lg-6">
             <div class="row">
 			  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                   <div class="user">
-                     <img src="images/team/2.png" class="img-responsive" style="width:100%">
+                     <img src="images/team/2.png" class="img-responsive" style="width-80%">
                      <h4> Ashwath Vyas Sudam <br><span style="font-size: 12px; color: #8d8d8d;"> Founder & CEO, Amaavi</span> </h4>
                   </div>
                </div>
@@ -160,11 +159,11 @@ where I travel the world?
             </div>
 			</div>
 			
-			<div class="col-md-6">
+			<div class="col-lg-6">
 			 <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                   <div class="user">
-                     <img src="images/team/3.png" class="img-responsive" style="width:100%">
+                     <img src="images/team/3.png" class="img-responsive" style="width-80%">
                      <h4> Saddam Pathan <br><span style="font-size: 12px; color: #8d8d8d;"> Head, Visa Operations, Amaavi</span> </h4>
                   </div>
                </div>
@@ -175,28 +174,27 @@ where I travel the world?
                </div>
             </div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-lg-6">
 			 <div class="row">
                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                   <div class="user">
-                     <img src="images/team/4.png" class="img-responsive" style="width:100%">
+                     <img src="images/team/4.png" class="img-responsive" style="width-80%">
                      <h4> Vijetha Vemu <br><span style="font-size: 12px; color: #8d8d8d;"> Operations Associate, Amaavi</span> </h4>
                   </div>
                </div>
                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                   <p class="user_content"> 
 				  She is a whiz at booking hotels and flight tickets, correspondence with transporters, handling agents, issuing vouchers and all logistical aspects. "I have always been fascinated with South Korea, which has been a global cultural hub thanks to the spectacular following of K-pop and K-dramas!”  
-
                   </p>
                </div>
 			    
             </div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-lg-6">
             <div class="row">
 			   <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                   <div class="user">
-                     <img src="images/team/5.png" class="img-responsive" style="width:100%">
+                     <img src="images/team/5.png" class="img-responsive" style="width-80%">
                      <h4> Sowmith Beemareddy <br><span style="font-size: 12px; color: #8d8d8d;"> Operations Intern, Amaavi</span> </h4>
                   </div>
                </div>

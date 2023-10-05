@@ -98,9 +98,9 @@
     display: none;
   }
 
-  img.img-responsive.res_768 {
+  /* img.img-responsive.res_768 {
     display: block;
-  }
+  } */
   .home_page .banner {
     padding: 100px 0px;
   }
@@ -859,6 +859,10 @@
 
   .bali_page .banner_section {
     top: 25%;
+  }
+
+  .bali_page .alchemists {
+    padding: 5% 1%;
   }
 
   .srinagar_page .banner_section {
