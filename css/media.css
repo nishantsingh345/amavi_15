@@ -688,6 +688,13 @@
   .srinagar_page .space {
     padding: 4% 2%;
   }
+  .bali_page .container-fluid {
+    margin-left: 0;
+  }
+
+  .srinagar_page .container-fluid {
+    margin-left: 0;
+  }
 
   .bali_page .space {
     padding: 4% 2%;
