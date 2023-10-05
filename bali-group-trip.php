@@ -63,7 +63,7 @@
       <div class="banner position-relative">
       
         <div
-          class="position-absolute top-50 start-0 translate-middle-y banner_section"
+          class="position-absolute   start-0 translate-middle-y banner_section"
           style="color: white"
         >
           <div class="summits">
@@ -71,14 +71,14 @@
             <p style="font-size: 20px">23rd – 28th November 2023 | 25th – 30th January 2024</p>
           </div>
           <div class="summits_down">
-            <p style="font-size: 20px; align-items: center; padding: 4px 10px">
+            <p style="font-size: 18px; align-items: center; padding: 4px 10px">
              An Amaavi Wanderlust Collective Program
             </p>
           </div>
         </div>
 		
-		<div class="position-absolute bottom-0 start-0 summits_bottom text-center" style="width: 100%; margin:0% 0% 6% 0%;padding-left: 0%;background: none;">
-		<a href="Amaavi_Slow Travel Collective_Bali Edition.pdf" target="_blank">
+		<div class="position-absolute broucher start-0 summits_bottom text-center" style="width: 100%; margin:0% 0% 6% 0%;padding-left: 0%;background: none;">
+	   	<a href="Amaavi_Slow Travel Collective_Bali Edition.pdf" target="_blank">
           <button type="button" class="btn" style="background-color: #cc4735">
             <h6 class="text-white">Download Brochure </h6>
           </button>

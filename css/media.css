@@ -844,6 +844,27 @@
     align-items: center;
     gap: 4px;
   }
+
+  .bali_page .banner .summits_bottom div {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+  }
+  .bali_page .banner .summits_down {
+    width: 100%;
+  }
+
+  .bali_page .banner_section {
+    top: 25%;
+  }
+
+  .bali_page .broucher{
+    top: 65%;
+  }
+
   .srinagar_page .banner_second {
     height: auto;
   }

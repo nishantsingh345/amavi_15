@@ -1045,7 +1045,13 @@ section.privacy_content ul {
   /* position: relative; */
   min-height: 100vh;
 }
+.bali_page .banner_section {
+  top: 50%;
+}
 
+.bali_page .broucher {
+  top: 70%;
+}
 .bali_page .banner .summits {
   background-color: #cc4735;
   padding: 15px 10px;
