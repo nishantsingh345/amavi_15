@@ -1034,6 +1034,10 @@ section.privacy_content ul {
   font-size: 20px;
 }
 
+.srinagar_page .banner_section {
+  top: 50%;
+}
+
 /* Bali css */
 
 /* bali hero */
@@ -1050,6 +1054,10 @@ section.privacy_content ul {
 }
 
 .bali_page .broucher {
+  top: 70%;
+}
+
+.srinagar_page .broucher {
   top: 70%;
 }
 .bali_page .banner .summits {

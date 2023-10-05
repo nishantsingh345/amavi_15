@@ -861,7 +861,15 @@
     top: 25%;
   }
 
-  .bali_page .broucher{
+  .srinagar_page .banner_section {
+    top: 25%;
+  }
+
+  .bali_page .broucher {
+    top: 65%;
+  }
+
+  .srinagar_page .broucher {
     top: 65%;
   }
 
